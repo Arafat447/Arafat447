@@ -44,6 +44,9 @@
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arafat447&show_icons=true&hide_border=true"/>
 
+---
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arafat447&layout=compact&show_icons=true&hide_border=true"/>
+
 
 
 
