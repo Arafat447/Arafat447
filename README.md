@@ -1,5 +1,5 @@
 
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -9,116 +9,211 @@
   </ul>
 </div>
 
+<h3 align="center">🚀 Full Stack Developer | Cloud Enthusiast | Open Source Contributor</h3>
+
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Laravel;Google+Cloud+Platform+Enthusiast;Building+Scalable+Web+Applications;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" /></a>
+</p>
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arafat447/Arafat447/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arafat447/Arafat447/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Arafat447/Arafat447/output/github-snake.svg" />
+  </picture>
 </div>
 
+<!--horizontal divider(gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h2 without bottom border-->
+<!-- About Me -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">About Me 🧑‍💻</h2></summary>
   </ul>
 </div>
 
+```yaml
+name: Arafat Hossain
+located_in: Bangladesh
+current_role: Full Stack Developer
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Google Cloud, React, Laravel, Nodejs, MongoDB, MySql**
+education:
+  - "Computer Science & Engineering"
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+fields_of_interests:
+  - "Full Stack Web Development"
+  - "Cloud Computing (GCP)"
+  - "Scalable Application Architecture"
+  - "Open Source Contributions"
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **Google Cloud**
+currently_working_on:
+  - "Building scalable applications with React, Node.js & Laravel"
+  - "Exploring Google Cloud Platform services"
 
-<!-- - 📝 I regularly write articles on [Medium](https://1010nishant.hashnode.dev/) -->
+currently_learning:
+  - "Advanced Cloud Architecture on GCP"
+  - "Microservices & Distributed Systems"
+  - "DevOps practices with Docker & CI/CD"
+```
 
-- 💬 Ask me about **Google Cloud, React, Laravel, Nodejs, MongoDB, MySql**
+<br>
 
-- 📫 Feel free to reach me out **arafathossain05541@gmail.com**
+- 🔭 I'm currently working on **Full Stack projects with React, Next.js, Laravel & Node.js**
+- ☁️ I have a keen interest in **Google Cloud Platform** and cloud-native development
+- 🌱 I'm learning to build **Hyper Beast Stacks for Scalable Applications**
+- 💬 Ask me about **React, Next.js, Node.js, Laravel, MongoDB, MySQL, GCP**
+- 📫 Reach me at **arafathossain05541@gmail.com**
+- ⚡ Fun fact: *Confusion is part of Programming* 😄
 
-- 🏠 Don't hesitate to drop me a **👋** on   [LinkedIn](https://www.linkedin.com/in/arafat-hossain-ah/)!
-<!--Intro end-->
+<!--horizontal divider(gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Tech Stack -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tech Stack 🛠️</h2></summary>
+  </ul>
+</div>
 
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Arafat447&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arafat447&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arafat447&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+  <tr>
+    <td align="center" width="120">
+      <strong>Frontend</strong>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,sass,bootstrap,vite" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <strong>Backend</strong>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nginx" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <strong>Database</strong>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,firebase" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <strong>DevOps & Cloud</strong>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=gcp,docker,linux,cloudflare,git,github" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <strong>Tools</strong>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,postman,npm,md" />
+      </a>
+    </td>
+  </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Arafat447&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+<!--horizontal divider(gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
+<!-- GitHub Stats -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">GitHub Stats 📊</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,sass,bootstrap,js,ts,react,redux,nextjs,nodejs,express,laravel,mongodb,mysql,prisma,git,gcp,docker,linux,md,nginx,firebase,npm,vite,github,cloudflare,postman,vscode,&perline=10" />
-  </a>
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arafat447&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&border_radius=10" />
+        <br><br>
+        <img title="🔥 Get streak stats for your profile" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arafat447&theme=tokyonight&hide_border=true&border_radius=10" />
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arafat447&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=compact&border_radius=10" />
+      </td>
+    </tr>
+  </table>
 </p>
 
+<!-- Trophy -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Arafat447&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-frame=true" alt="TROPHY" />
+  </a>
+</div>
+
+<br>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arafat447&bg_color=1a1b27&color=6ad3f7&line=628fdb&point=6ad3f7&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<!--horizontal divider(gradient)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/arafat-hossain-ah/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/arafat-hossain-ah" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/arafat-hossain-ah/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  <a href="https://www.linkedin.com/in/arafat-hossain-ah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:arafathossain05541@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://github.com/Arafat447" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
 </p>
 
+<br>
+
+<!-- Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br>
 
 <!--profile visit count-->
 <div align="center">
-  
-![Profile Views](https://visitcount.itsvg.in/api?id=Arafat447&icon=3&color=6)
-  
+  <img src="https://komarev.com/ghpvc/?username=Arafat447&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
+<!-- Support -->
+<div align="center">
+  <h3>⭐ If you like my projects, Give them a star! ⭐</h3>
+</div>
 
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
+<div align="center">
+  <b>Made with ❤️ by Arafat Hossain</b>
+</div>
